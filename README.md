@@ -10,7 +10,7 @@ Use ERD to create postgres SQL database and tables ( import tables)
 Perform SQL queries to create new tables for reporting purpose/ to email stakeholders.
 
 ## Analysis 
-**** Initial Analysis steps are summarized below ****
+Initial Analysis steps are summarized below
 
 1. Extraction of crowdfunding data importing the crowdfunding.xls
 2. Data transformation and cleaning 
