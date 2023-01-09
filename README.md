@@ -20,11 +20,17 @@ Analysis steps are summarized below
 7. Creation of contacts dataFrame, transformation, and export of contacts csv file
 
 Following code walks through above steps:
+
 https://github.com/ashrs03/Crowdfunding-ETL/blob/main/Crowdfunding.ipynb
 
 Analysis additions were
 1. Extract or import backer_info.csv, transform and clean the data as per specifications
+
 The code that walks through the extraction, transformation and the export of the backers csv file is 
+
+https://github.com/ashrs03/Crowdfunding-ETL/blob/main/Extract-Transform_final_code.ipynb
+
+
 
 
 
