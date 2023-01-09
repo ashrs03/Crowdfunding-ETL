@@ -18,7 +18,9 @@ Analysis steps are summarized below
 5. Creation of campaign dataframe, transformation with cleaning of data
 6. Export of campaign csv file
 7. Creation of contacts dataFrame, transformation, and export of contacts csv file
-Following code walks through above steps 
+
+Following code walks through above steps:
+https://github.com/ashrs03/Crowdfunding-ETL/blob/main/Crowdfunding.ipynb
 
 Analysis additions were
 1. Extract or import backer_info.csv, transform and clean the data as per specifications
